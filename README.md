@@ -98,7 +98,7 @@ Please note that this dApp is built on the Goerli testnet and any transactions m
 
 ## Contact
 
-Project Link: [https://github.com/jonrin0213/hardhat-blockdonate](https://github.com/jonrin0213/hardhat-blockdonate)
+Project Link: [https://github.com/jonrin0213/hardhat-blockdonate](https://github.com/jonrin0213/blockchain-donate-smartcontract)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
