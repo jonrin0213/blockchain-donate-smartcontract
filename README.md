@@ -1,5 +1,5 @@
 <a name="readme-top"></a>
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/julienbrs)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jonrin0213)
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 <!-- PROJECT LOGO -->
@@ -42,7 +42,7 @@ This smart contract is for a decentralized crowdfunding application. It allows u
 
 Test the dApp here: [Blockdonate](https://blockdonate.vercel.app/)
 
-Check the frontend repo here: [Frontend repositorie](https://github.com/julienbrs/frontend-blockdonate)
+Check the frontend repo here: [Frontend repositorie](https://github.com/jonrin0213/frontend-blockdonate)
 <br />
 <p align="center">
   <img src="assets/blockdonate.png" alt="Dapp Blockdonate Screenshot"/>
@@ -64,7 +64,7 @@ To get a local copy up and running follow these simple example steps.
 Clone the repo
 
 ```sh
-git clone https://github.com/julienbrs/hardhat-blockdonate
+git clone https://github.com/jonrin0213/hardhat-blockdonate
 ```
 
 Install package dependencies using yarn
@@ -98,9 +98,7 @@ Please note that this dApp is built on the Goerli testnet and any transactions m
 
 ## Contact
 
-Bourseau Julien - _2nd year student at Ensimag, 2022_ - julien.bourseau@gmail.com
-
-Project Link: [https://github.com/julienbrs/hardhat-blockdonate](https://github.com/julienbrs/hardhat-blockdonate)
+Project Link: [https://github.com/jonrin0213/hardhat-blockdonate](https://github.com/jonrin0213/hardhat-blockdonate)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
